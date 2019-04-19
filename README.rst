@@ -1,6 +1,7 @@
 Python impl for TextRank 
 ========================
 - stingraze updated ver. (fork) 2019-4-19
+The error that was outputted when running the code is fixed in this.
 
 Python implementation of *TextRank*, based on the 
 `Mihalcea 2004 <http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf>`_
