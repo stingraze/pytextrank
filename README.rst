@@ -1,5 +1,6 @@
-Python impl for TextRank - stingraze updated ver. (fork) 2019-4-19
+Python impl for TextRank 
 ========================
+- stingraze updated ver. (fork) 2019-4-19
 
 Python implementation of *TextRank*, based on the 
 `Mihalcea 2004 <http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf>`_
