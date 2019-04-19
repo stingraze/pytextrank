@@ -1,4 +1,4 @@
-Python impl for TextRank
+Python impl for TextRank - stingraze updated ver. (fork) 2019-4-19
 ========================
 
 Python implementation of *TextRank*, based on the 
